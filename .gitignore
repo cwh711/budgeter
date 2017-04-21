@@ -1,0 +1,4 @@
+/bin/
+/target/
+/var/conf/encrypted-config-value.key
+dependency-reduced-pom.xml
